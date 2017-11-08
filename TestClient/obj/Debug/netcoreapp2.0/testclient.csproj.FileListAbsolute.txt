@@ -1,0 +1,10 @@
+C:\Users\Sean\workspace\ReactMVCApp\testclient\bin\Debug\netcoreapp2.0\testclient.deps.json
+C:\Users\Sean\workspace\ReactMVCApp\testclient\bin\Debug\netcoreapp2.0\testclient.runtimeconfig.json
+C:\Users\Sean\workspace\ReactMVCApp\testclient\bin\Debug\netcoreapp2.0\testclient.runtimeconfig.dev.json
+C:\Users\Sean\workspace\ReactMVCApp\testclient\bin\Debug\netcoreapp2.0\testclient.dll
+C:\Users\Sean\workspace\ReactMVCApp\testclient\bin\Debug\netcoreapp2.0\testclient.pdb
+C:\Users\Sean\workspace\ReactMVCApp\testclient\obj\Debug\netcoreapp2.0\testclient.csproj.CoreCompileInputs.cache
+C:\Users\Sean\workspace\ReactMVCApp\testclient\obj\Debug\netcoreapp2.0\testclient.AssemblyInfoInputs.cache
+C:\Users\Sean\workspace\ReactMVCApp\testclient\obj\Debug\netcoreapp2.0\testclient.AssemblyInfo.cs
+C:\Users\Sean\workspace\ReactMVCApp\testclient\obj\Debug\netcoreapp2.0\testclient.dll
+C:\Users\Sean\workspace\ReactMVCApp\testclient\obj\Debug\netcoreapp2.0\testclient.pdb
